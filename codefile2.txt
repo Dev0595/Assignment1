@@ -132,5 +132,7 @@
                 min-width: 630px;
             }
         }
+<<<<<<< HEAD
 new feature of branch1
+=======
 
