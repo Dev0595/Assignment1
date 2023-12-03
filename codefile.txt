@@ -131,9 +131,5 @@
                 max-width: 630px;
                 min-width: 630px;
             }
-        }
+        merge sucess
 
-
-
-merge
->>>>>>> feature
